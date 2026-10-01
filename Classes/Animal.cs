@@ -1,7 +1,7 @@
 ﻿
 namespace UML_Klass_Diagram___Övning.Classes
 {
-    // Inheritace class for Animal
+    // Abstract class for Animal
     public abstract class Animal
     {
         // Attributes 
@@ -16,7 +16,7 @@ namespace UML_Klass_Diagram___Övning.Classes
 
         }
 
-        // Metod for class Animals
+        // Metod
         public abstract void MakeSound();
     }
 }
